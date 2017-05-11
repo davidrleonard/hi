@@ -1,0 +1,19 @@
+{
+  "name": "hi",
+  "version": "1.0.0",
+  "description": "Slack bot that responds to \"Hi\" DMs with \"Hi\".",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "David Leonard <davidrobertleonard@gmail.com>",
+  "homepage": "https://github.com/davidrleonard/hi#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidrleonard/hi"
+  },
+  "bugs": {
+    "url": "https://github.com/davidrleonard/hi/issues"
+  },
+  "dependencies": {
+    "tinyspeck": "^1.4.1"
+  }
+}
